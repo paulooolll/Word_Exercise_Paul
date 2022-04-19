@@ -1,6 +1,6 @@
 <html>
 	<body>
-		<form action="user.php" method="post">
+		<form action="insert.php" method="post">
 		使用者名稱:
 		<input type="text" name="my_name"  /> 
 		<br />
